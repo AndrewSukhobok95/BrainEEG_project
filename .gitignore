@@ -1,1 +1,6 @@
 data/
+.idea/
+.ipynb_checkpoints
+torch_exploration/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+state_clf/pretrained
