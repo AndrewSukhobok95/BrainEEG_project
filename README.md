@@ -1,5 +1,7 @@
 # BrainEEG_project
 
+(2019)
+
 Under supervision of Dr. Riku Linna (Aalto University).
 
 **General:** I participated in the project that is related to analysis and modelling of the brain activity and its responding to stimulations. The final idea, as it is perceived now, is to construct a simulation model of the brain which will predict its responses using information about previous stimulus.
