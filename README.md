@@ -1,6 +1,6 @@
 # BrainEEG_project
 
-(2019)
+Research Experience Project 09/2019 - 01/2020
 
 Under supervision of Dr. Riku Linna (Aalto University).
 
